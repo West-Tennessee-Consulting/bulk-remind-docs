@@ -164,7 +164,7 @@ In this example the subject of the notification reminder is as follows.
 
 Once the editing is complete, select "Add To Board" in the bottom right corner. 
 
-![image](/imgaddingintegrationfolder/bulk57.png)
+![image](/img/addingintegrationfolder/bulk57.png)
 
 ### Test the Integration
 
