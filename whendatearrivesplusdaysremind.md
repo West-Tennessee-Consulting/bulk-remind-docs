@@ -81,4 +81,4 @@ Finally, select "Add to Board" to save the integration.
 
 A notification email will be sent if all requirements to trigger the notification are met.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk23.png)
+![image](/img/addingintegrationfolder/bulk23.png)
