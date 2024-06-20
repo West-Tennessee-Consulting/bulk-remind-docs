@@ -18,7 +18,7 @@ There are two groups in this example which are "Leads" and "Contacts".
 
 The remaining columns include "follow up" dates and "notes" about a particular client. 
 
-![Bulk Remind Demo Dashboard](/img/bulkremind/addingintegrationfolder/bulk1.png)
+![Bulk Remind Demo Dashboard](/img/addingintegrationfolder/bulk1.png)
 
 This integration feature lets users know how many items fall under a certain status category automatically via a bulk notification. 
 
@@ -47,31 +47,31 @@ Once opened, there will be five fields that require editing:
 - Something 
 - Person
 
-![Editing Fields](/img/bulkremind/addingintegrationfolder/bulk8.png)
+![Editing Fields](/img/addingintegrationfolder/bulk8.png)
 
 ### Editing Duration 
 
 Select the duration, and choose "Days", "Weeks", or "Months". In this example, we will enter two days.
 
-![Editing Duration](/img/bulkremind/addingintegrationfolder/bulk9.png)
+![Editing Duration](/img/addingintegrationfolder/bulk9.png)
 
 ### Editing Status 
 
 Add the "Status" column.
 
-![Editing Status](/img/bulkremind/addingintegrationfolder/bulk10.png)
+![Editing Status](/img/addingintegrationfolder/bulk10.png)
 
 ### Editing Is
 
 Select "Is".
 
-![Editing Is](/img/bulkremind/addingintegrationfolder/bulk11.png)
+![Editing Is](/img/addingintegrationfolder/bulk11.png)
 
  ### Editing Something 
 
 Under "Something", select "No Response".
 
-![Editing Something](/img/bulkremind/addingintegrationfolder/bulk12.png)
+![Editing Something](/img/addingintegrationfolder/bulk12.png)
 
 ### Editing Person 
 

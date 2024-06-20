@@ -17,29 +17,29 @@ We will provide screenshots and video clips along the way to help guide you to m
 
 To add the integration, first select the three dots icon in the top right of the board.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk14.png)
+![image](/img/addingintegrationfolder/bulk14.png)
 
 Select "Board Power-Ups". Select "Integrations".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk15.png)
+![image](/img/addingintegrationfolder/bulk15.png)
 
 Select "Board Integrations".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk16.png)
+![image](/img/addingintegrationfolder/bulk16.png)
 
 Select "Add new Integration".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk17.png)
+![image](/img/addingintegrationfolder/bulk17.png)
 
 In the search bar type "Bulk Follow-Up".
 
 Click the App to open the integrations.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk18.png)
+![image](/img/addingintegrationfolder/bulk18.png)
 
 Next, select "When Date Arrives Plus Some Days Notify Person via a Bulk Notification".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk19.png)
+![image](/img/addingintegrationfolder/bulk19.png)
 
 ## Setup Video Link
 
@@ -57,19 +57,19 @@ The following fields will need to be modified for the integration to operate:
 
 Select the column "Followup Date".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk20.png)
+![image](/img/addingintegrationfolder/bulk20.png)
 
 ## Editing Some Days
 
 In this integration, the duration is set to two days after the follow-up date has passed.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk21.png)
+![image](/img/addingintegrationfolder/bulk21.png)
 
 ## Editing Person
 
 Specify the end recipient for the bulk reminder.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk22.png)
+![image](/img/addingintegrationfolder/bulk22.png)
 
 Finally, select "Add to Board" to save the integration.
 
@@ -81,4 +81,4 @@ Finally, select "Add to Board" to save the integration.
 
 A notification email will be sent if all requirements to trigger the notification are met.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk23.png)
+![image](/img/addingintegrationfolder/bulk23.png)

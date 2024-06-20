@@ -30,7 +30,7 @@ There are two groups in this example which are "Leads" and "Contacts".
 
 The remaining columns include "Follow Up" dates and "Notes" about a particular client. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk24.png)
+![image](/img/addingintegrationfolder/bulk24.png)
 
 
 ## Adding Integration to Board 
@@ -40,28 +40,28 @@ To add the integration first select the three dots icon in the top right of the 
 Select "Board Power-Ups".
 Select "Integrations".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk25.png)
+![image](/img/addingintegrationfolder/bulk25.png)
 
 Select "Board Integrations".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk26.png)
+![image](/img/addingintegrationfolder/bulk26.png)
 
 Select "Add new Integration".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk5.png)
+![image](/img/addingintegrationfolder/bulk5.png)
 
 In the search bar type "Bulk Follow-Up". 
 
 Click the App to open the integrations. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk6.png)
+![image](/img/addingintegrationfolder/bulk6.png)
 
 Once opened select "When Date Arrives Plus Some Days Notify Person with Subject via a Bulk Notification".
 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk27.png)
+![image](/img/addingintegrationfolder/bulk27.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk28.png)
+![image](/img/addingintegrationfolder/bulk28.png)
 
 # Setup Video Link 
 
@@ -70,29 +70,29 @@ Once opened select "When Date Arrives Plus Some Days Notify Person with Subject 
 
 Select the column "Follow Up Date".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk28.png)
+![image](/img/addingintegrationfolder/bulk28.png)
 
 ## Editing Some Days 
 
 Select the number of days after the "Follow Up" date to send the bulk notification. In this example 2 days are chosen. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk30.png)
+![image](/img/addingintegrationfolder/bulk30.png)
 
 ## Editing Person
 
 Select the recipient of the bulk reminder.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk31.png)
+![image](/img/addingintegrationfolder/bulk31.png)
 
 ## Editing Subject
 
 Under "Subject", type in the subject line of the reminder. 
 In this example the subject line is "notifications".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk32.png)
+![image](/img/addingintegrationfolder/bulk32.png)
 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk33.png)
+![image](/img/addingintegrationfolder/bulk33.png)
 
 When all edits are finished, add the feature recipe to the board. 
 
@@ -105,7 +105,7 @@ When all edits are finished, add the feature recipe to the board.
 
 A notification email will automatically send after the integration feature is added to the board. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk33v2.png)
+![image](/img/addingintegrationfolder/bulk33v2.png)
 
 
 

@@ -24,7 +24,7 @@ The column "Invoice" has four possible labels.
 
 Knowing how many leads were contacted with a sent estimate would be useful information to include in a consolidated reminder. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk34.png)
+![image](/img/addingintegrationfolder/bulk34.png)
 
 
 In this guide we are going to show how to add a recipe which sends a bulk reminder if two status conditions are met.
@@ -37,30 +37,30 @@ We will provide screenshots and video clips along the way to help guide you to m
 
 To add the integration first select "Integrate" near the top right of the board. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk59.png)
+![image](/img/addingintegrationfolder/bulk59.png)
 
 Select "Board Integrations"
  
-![image](/img/bulkremind/addingintegrationfolder/bulk39.png)
+![image](/img/addingintegrationfolder/bulk39.png)
 
 Select "Add new Integration".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk37.png)
+![image](/img/addingintegrationfolder/bulk37.png)
 
 In the search bar type "Bulk Follow-Up" or "bulk".
 
 Click the App to open the integrations. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk38.png)
+![image](/img/addingintegrationfolder/bulk38.png)
 
 Next, select "Every duration when status something and status is something notify person with subject via a bulk notification".
 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk40.1.png)
+![image](/img/addingintegrationfolder/bulk40.1.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk41.png)
+![image](/img/addingintegrationfolder/bulk41.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk42.png)
+![image](/img/addingintegrationfolder/bulk42.png)
 
 
 ## Setup Video Link 
@@ -82,33 +82,33 @@ The following fields will need to be modified for the integration to operate.
 
 Under "Duration" input for 1 day.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk43.png)
+![image](/img/addingintegrationfolder/bulk43.png)
 
 
 ### Editing First Status 
 
 Under the first "Status", select "Status".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk44.png)
+![image](/img/addingintegrationfolder/bulk44.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk45.png)
+![image](/img/addingintegrationfolder/bulk45.png)
 
 ### Editing First Is
 
 Under the first "Is", select "Is".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk46.png)
+![image](/img/addingintegrationfolder/bulk46.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk47.png)
+![image](/img/addingintegrationfolder/bulk47.png)
 
 
 ### Editing First Something
 
 Under "Something", select "Reaching Out".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk48.png)
+![image](/img/addingintegrationfolder/bulk48.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk49.png)
+![image](/img/addingintegrationfolder/bulk49.png)
 
 
 
@@ -117,9 +117,9 @@ Under "Something", select "Reaching Out".
 
 Under the second "Status", select "Invoice". 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk50.png)
+![image](/img/addingintegrationfolder/bulk50.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk51.png)
+![image](/img/addingintegrationfolder/bulk51.png)
 
 
 
@@ -127,16 +127,16 @@ Under the second "Status", select "Invoice".
 
 Under the second "Is" field, select "Is".
 
-![image](/img/bulkremind/addingintegrationfolder/bulk52.png)
+![image](/img/addingintegrationfolder/bulk52.png)
 
-![image](/img/bulkremind/addingintegrationfolder/bulk53.png)
+![image](/img/addingintegrationfolder/bulk53.png)
 
 
 ### Editing Second Something 
 
 Under the second "Something" field, select "Estimate Sent". 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk54.png)
+![image](/img/addingintegrationfolder/bulk54.png)
 
 
 ### Editing Person
@@ -145,7 +145,7 @@ Please select the recipient of the reminder.
 
 In this example, "Me" is selected. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk55.png)
+![image](/img/addingintegrationfolder/bulk55.png)
 
 ### Editing Subject 
 
@@ -153,7 +153,7 @@ In this example the subject of the notification reminder is as follows.
 
 "Bulk Remind All Leads Reaching Out and Estimate Sent"
 
-![image](/img/bulkremind/addingintegrationfolder/bulk56.png)
+![image](/img/addingintegrationfolder/bulk56.png)
 
 
 ## Setup Video Link 
@@ -164,10 +164,10 @@ In this example the subject of the notification reminder is as follows.
 
 Once the editing is complete, select "Add To Board" in the bottom right corner. 
 
-![image](/img/bulkremind/addingintegrationfolder/bulk57.png)
+![image](/img/addingintegrationfolder/bulk57.png)
 
 ### Test the Integration
 
 Once the integration is added a notification email should be sent.
 
-![image](/img/bulkremind/addingintegrationfolder/bulk58.png)
+![image](/img/addingintegrationfolder/bulk58.png)
