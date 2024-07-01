@@ -10,46 +10,30 @@ Below are comprehensive setup videos for implementing various Bulk Reminder inte
 
 Upon adding the integration, a notification email will be sent if requirements are met for the integration to trigger.
 
-## Add Integration Feature "Every duration when status is something notify person via a bulk notification" to Board 
-
-### Overview Of Integration Feature
+## Notify Based on Status
 
 This integration feature automatically notifies users about items falling under a specific status category via bulk notifications. 
 
-### Links To Video Page and Setup Guide 
+- [Video Guide for Status-Based Notification](/bulk-remind/docs/everydurationstatusremindsetupvideo)
+- [Step-by-Step Guide for Status-Based Notification](/bulk-remind/docs/everydurationstatusandstatusremind)
 
-- [When Status is Something Notify Video Page](/bulk-remind/docs/everydurationstatusremindsetupvideo)
-- [When Status is Something Notify Step-by-Step Setup Guide](/bulk-remind/docs/everydurationstatusandstatusremind)
+## Notify Based on Date and Delay
 
-## Add Integration Feature "When date arrives plus some days notify person via a bulk notification" to Board 
-
-### Overview of Integration Feature
- 
 This feature automatically sends reminders for pending items or passed follow-up dates via email. A reminder is triggered if a due date or follow-up date is passed plus a specific number of days.
 
-### Links To Video Page and Setup Guide
+- [Video Guide for Date and Delay Notification](/bulk-remind/docs/whendatearrivesplussomedayssetupvideo)
+- [Step-by-Step Guide for Date and Delay Notification](/bulk-remind/docs/whendatearrivesplussomedaysremindwsubject)
 
-- [When Date Arrives Plus Some Days Notify Video Page](/bulk-remind/docs/whendatearrivesplussomedayssetupvideo)
-- [When Date Arrives Plus Some Days Step-by-Step Setup Guide](/bulk-remind/docs/whendatearrivesplussomedaysremindwsubject)
-
-## Add Integration Feature "When Date Arrives Plus Some Days Bulk Remind Feature with Subject" to Board
-
-### Overview of Integration Feature
+## Custom Subject Line for Date-Based Notifications
 
 This feature allows customization of the subject line for bulk reminder notifications, useful for differentiating multiple bulk reminders for a single board.
 
-### Links To Video Page and Setup Guide
+- [Video Guide for Custom Subject Line Notification](/bulk-remind/docs/whendatearrivesplussomedaysbulkremindfeaturewithsubjectsetupvideo)
+- [Step-by-Step Guide for Custom Subject Line Notification](/bulk-remind/docs/whendatearrivesplussomedaysremindwsubject)
 
-- [When Date Arrives Plus Some Days Notify with Subject Video Page](/bulk-remind/docs/whendatearrivesplussomedaysbulkremindfeaturewithsubjectsetupvideo)
-- [When Date Arrives Plus Some Days Notify with Subject Step-by-Step Setup Guide](/bulk-remind/docs/whendatearrivesplussomedaysremindwsubject)
-
-## Add Integration Feature "Every duration when status is something and status is something notify person with subject via a bulk notification" to Board
-
-### Overview of Integration Feature
+## Notify Based on Paired Status Columns
 
 This integration feature sends reminders for specific paired status column values, useful for boards containing critical information in multiple status columns.
 
-### Links To Video Page and Setup Guide
-
-- [Every Duration Two Status Fields Notify Video Page](/bulk-remind/docs/whendatearrivesplussomedaysbulkremindfeaturewithsubjectsetupvideo)
-- [Every Duration Two Status Fields Notify Step-by-Step Setup Guide](/bulk-remind/docs/everydurationwhenstatusissomethingandstatusissomethingnotifypersonwithsubjectviaabulknotificationsetupvideo)
+- [Video Guide for Paired Status Column Notification](/bulk-remind/docs/whendatearrivesplussomedaysbulkremindfeaturewithsubjectsetupvideo)
+- [Step-by-Step Guide for Paired Status Column Notification](/bulk-remind/docs/everydurationwhenstatusissomethingandstatusissomethingnotifypersonwithsubjectviaabulknotificationsetupvideo)
