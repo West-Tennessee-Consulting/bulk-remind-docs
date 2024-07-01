@@ -10,6 +10,7 @@ keywords: 'Bulk Remind, documentation, setup guides, video demos, integration fe
 [**View More About Customization**](/bulk-remind/docs/customization)
 
 ## Video Demos
+
 - [**Main Video Demo Page**](/bulk-remind/docs/bulkremindsetupvideosmainpage)
 - [**Every Status Send Bulk Remind**](/bulk-remind/docs/everydurationstatusremindsetupvideo)
 - [**When Date Arrives Plus Some Days Send Bulk Remind**](/bulk-remind/docs/whendatearrivesplusdaysremind)
@@ -17,6 +18,7 @@ keywords: 'Bulk Remind, documentation, setup guides, video demos, integration fe
 - [**When Status is Something And Status is Something Send Bulk Remind**](/bulk-remind/docs/everydurationwhenstatusissomethingandstatusissomethingnotifypersonwithsubjectsetupvideo)
 
 ## Setup Guide
+
 - [**Main Setup Page**](/bulk-remind/docs/setup)
 - [**Setup Guide For Every Status Send Bulk Remind**](/bulk-remind/docs/everydurationstatusremind)
 - [**Setup Guide When Date Arrives Plus Some Days Send Bulk Remind**](/bulk-remind/docs/whendatearrivesplusdaysremind)
