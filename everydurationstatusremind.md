@@ -67,7 +67,7 @@ Select "Is".
 
 ![Editing Is](/img/addingintegrationfolder/bulk11.png)
 
- ### Editing Something 
+### Editing Something 
 
 Under "Something", select "No Response".
 
