@@ -37,7 +37,7 @@ We will provide screenshots and video clips along the way to help guide you to m
 
 To add the integration first select "Integrate" near the top right of the board. 
 
-![image](/img/addingintegrationfolder/bulk59.png)
+![image](/img/bulk59.png)
 
 Select "Board Integrations"
  
