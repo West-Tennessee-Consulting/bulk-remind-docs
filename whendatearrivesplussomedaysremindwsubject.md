@@ -97,7 +97,7 @@ In this example the subject line is "notifications".
 When all edits are finished, add the feature recipe to the board. 
 
 
-# Setup Video Link 
+# Link to Setup Video 
 
 [**Editing "When date arrives plus some days notify person with subject via a bulk notification" Part 2**](https://youtu.be/JZGR9sc8eXg)
 
