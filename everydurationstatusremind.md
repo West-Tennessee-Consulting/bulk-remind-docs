@@ -77,7 +77,7 @@ Under "Something", select "No Response".
 
 Select the recipient for the bulk reminder integration. 
 
-### Setup Video Link
+### Link to Setup Video
 
 [Watch Editing Video](https://youtu.be/D_u-3vXLNbs)
 
