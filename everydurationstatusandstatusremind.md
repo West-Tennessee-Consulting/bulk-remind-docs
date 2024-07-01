@@ -32,7 +32,7 @@ In this guide we are going to show how to add a recipe which sends a bulk remind
 We will provide screenshots and video clips along the way to help guide you to make your first test invoice.
 
 
-# Add the Integration "Every duration when status something and status is something notify person with subject via a bulk notification" to board. 
+# Add the Integration "Every duration when status something and status is something notify person with subject via a bulk notification" to board 
  
 
 To add the integration first select "Integrate" near the top right of the board. 
