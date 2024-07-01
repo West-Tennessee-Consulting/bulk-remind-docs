@@ -156,7 +156,7 @@ In this example the subject of the notification reminder is as follows.
 ![image](/img/addingintegrationfolder/bulk56.png)
 
 
-## Setup Video Link 
+## Link to Setup Video 
 
 [Editing "Every duration when status is something and status is something notify person with subject via a bulk notification" Part 2](https://youtu.be/hf7krDJ_Bo0)
 
