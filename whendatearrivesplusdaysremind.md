@@ -73,7 +73,7 @@ Specify the end recipient for the bulk reminder.
 
 Finally, select "Add to Board" to save the integration.
 
-## Setup Video Link
+## Link to Setup Video
 
 [**Editing Fields "When Follow-Up Date Arrives Plus Some Days Notify a Person via Bulk Remind" Part 2**](https://youtu.be/B5uejjKlzRQ)
 
